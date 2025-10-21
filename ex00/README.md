@@ -21,5 +21,5 @@ This project includes:
 1. **Download or clone this repository:**
 
 ```bash
-git clone https://github.com/yourusername/2048-mini.git
-cd 2048-mini
+git clone https://github.com/svetameanssun/GlobantPiscine.git
+cd GlobantPiscine/ex00/
